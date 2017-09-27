@@ -1,0 +1,36 @@
+body{
+
+}
+
+#title{
+  color: yellow;
+  font-family: Lato;
+  text-align: center;
+
+}
+#introHeader{
+  color: yellow;
+  font-family: Lato;
+  text-align: center;
+}
+#profileHeader{
+  color: yellow;
+  font-family: Lato;
+  text-align: center;
+}
+#introInfo{
+  color: yellow;
+  font-family: Roboto;
+
+}
+.surferImage {
+  position: relative;
+  width: 200px; /* for IE 6 */
+}
+
+h3 {
+  position: absolute;
+  top: 200px;
+  left: 0;
+  width: 100%;
+}
